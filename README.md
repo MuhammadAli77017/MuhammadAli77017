@@ -24,26 +24,15 @@
 </div>
 
 ---
+## 🧑‍💻 ABOUT ME
 
-## 🧠 SYSTEM PROFILE
+- 💻 Full Stack Developer (PHP / JS / WordPress)
+- ⚙️ Custom Themes, Plugins & CRM Systems
+- 🚀 Performance + Scalable Architecture Focus
+- 🔥 Real-world problem solving mindset
+- 📈 Production-level web applications
 
-```bash
-> INITIALIZING DEVELOPER PROFILE...
-
-NAME: Muhammad Ali
-ROLE: Full Stack Cyber Engineer
-LOCATION: Pakistan // NODE ACTIVE
-STATUS: Building scalable digital systems
-FOCUS: Performance | Architecture | Automation
-
-CORE SYSTEMS:
-- WordPress Kernel Modification
-- PHP / JS Runtime Engineering
-- MySQL Data Architecture
-- REST API Integration Layer
-
-MISSION:
-"Transform ideas into scalable digital systems."
+---
 
 ## 🌐 CONNECT / LINKS
 
