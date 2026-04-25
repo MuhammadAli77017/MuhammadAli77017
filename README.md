@@ -45,7 +45,6 @@ $developer = [
 ];
 ?>
 <div align="center">
-
 <!-- ═══════════════════════════════════════ -->
 <!--           FEATURED PROJECTS             -->
 <!-- ═══════════════════════════════════════ -->
@@ -89,9 +88,10 @@ $developer = [
     </td>
   </tr>
 </table>
+</div>
 
 ---
-
+<div align="center">
 <!-- ═══════════════════════════════════════ -->
 <!--               TECH STACK               -->
 <!-- ═══════════════════════════════════════ -->
@@ -101,9 +101,9 @@ $developer = [
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,wordpress,git,github,vscode&theme=dark" />
 </p>
-
+</div>
 ---
-
+<div align="center">
 <!-- ═══════════════════════════════════════ -->
 <!--               GITHUB STATS             -->
 <!-- ═══════════════════════════════════════ -->
@@ -114,7 +114,7 @@ $developer = [
   <img src="https://github-readme-stats.vercel.app/api?username=MuhammadAli77017&show_icons=true&theme=merko&hide_border=true" height="170"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadAli77017&layout=compact&theme=merko&hide_border=true" height="170"/>
 </p>
-
+</div>
 ---
 
 <!-- ═══════════════════════════════════════ -->
