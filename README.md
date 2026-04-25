@@ -1,38 +1,49 @@
 <div align="center">
 
 <!-- ═══════════════════════════════════════ -->
-<!--        ULTRA CINEMATIC HEADER          -->
+<!--          CYBERPUNK HEADER             -->
 <!-- ═══════════════════════════════════════ -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,10:0a0a0a,25:111111,45:1a1a1a,65:2b2b2b,85:3a3a3a,100:000000&height=320&section=header&text=Muhammad%20Ali&fontSize=66&fontColor=e6e6e6&fontAlignY=40&fontAlign=50&desc=Full%20Stack%20Developer%20%E2%80%A2%20WordPress%20Expert%20%E2%80%A2%20Builder%20of%20Scalable%20Systems&descAlignY=60&descSize=16&descFontColor=9aa0a6&animation=fadeIn&stroke=9aa0a6&strokeWidth=1"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,10:0d0d0d,25:111111,45:1a1a1a,65:00ffcc,80:ff00ff,100:000000&height=320&section=header&text=Muhammad%20Ali&fontSize=64&fontColor=00ffcc&fontAlignY=40&fontAlign=50&desc=CYBERPUNK%20FULL%20STACK%20DEVELOPER%20%7C%20WORDPRESS%20ARCHITECT&descAlignY=60&descSize=15&descFontColor=ff00ff&animation=fadeIn"/>
 
 <br/>
 
-<!-- BADGES -->
-<img src="https://komarev.com/ghpvc/?username=MuhammadAli77017&style=for-the-badge&color=111111&label=PROFILE+VIEWS&labelColor=000000"/>
+<!-- GLITCH BADGES -->
+<img src="https://komarev.com/ghpvc/?username=MuhammadAli77017&style=for-the-badge&color=000000&label=NEURAL+SCAN"/>
+
 &nbsp;
-<img src="https://img.shields.io/badge/STATUS-Open%20to%20Work-9aa0a6?style=for-the-badge&labelColor=000000"/>
+<img src="https://img.shields.io/badge/STATUS-ONLINE-00ffcc?style=for-the-badge&labelColor=000000"/>
 &nbsp;
-<img src="https://img.shields.io/badge/LOCATION-Pakistan-8a8a8a?style=for-the-badge&labelColor=000000"/>
+<img src="https://img.shields.io/badge/SYSTEM-ENGAGED-ff00ff?style=for-the-badge&labelColor=000000"/>
 
 <br/><br/>
 
-<!-- TYPING -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=1000&color=B0B0B0&center=true&vCenter=true&width=800&lines=Full+Stack+Web+Developer;WordPress+Custom+Solutions+Expert;CRM+%26+Plugin+Architect;Performance+Focused+Engineer;Clean+Code+%7C+Real+World+Solutions"/>
+<!-- CYBER TYPING -->
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=20&duration=2500&pause=900&color=00FFCC&center=true&vCenter=true&width=900&lines=Full+Stack+Cyber+Engineer;WordPress+System+Architect;REST+API+Builder;Scalable+Backend+Designer;Code+%7C+Hack+%7C+Optimize"/>
 
 </div>
 
 ---
 
-## 🧑‍💻 ABOUT ME
+## 🧠 SYSTEM PROFILE
 
-- 💻 Full Stack Developer (PHP / JS / WordPress)
-- ⚙️ Custom Themes, Plugins & CRM Systems
-- 🚀 Performance + Scalable Architecture Focus
-- 🔥 Real-world problem solving mindset
-- 📈 Production-level web applications
+```bash
+> INITIALIZING DEVELOPER PROFILE...
 
----
+NAME: Muhammad Ali
+ROLE: Full Stack Cyber Engineer
+LOCATION: Pakistan // NODE ACTIVE
+STATUS: Building scalable digital systems
+FOCUS: Performance | Architecture | Automation
+
+CORE SYSTEMS:
+- WordPress Kernel Modification
+- PHP / JS Runtime Engineering
+- MySQL Data Architecture
+- REST API Integration Layer
+
+MISSION:
+"Transform ideas into scalable digital systems."
 
 ## 🌐 CONNECT / LINKS
 
