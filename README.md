@@ -71,7 +71,7 @@
 🔹 Dynamic UI with sliders  
 
 **Tech:** JavaScript, PHP, WordPress  
-**Repo:** https://github.com/yourusername/loan-calculator  
+**Repo:** https://github.com/MuhammadAli77017/MuhammadAli77017 
 
 ---
 
@@ -103,8 +103,8 @@
 ## 🌐 Connect
 
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge"></a>
+  <a href="#"><img src="https://www.linkedin.com/in/ali-satti-998073340/"></a>
+  <a href="#"><img src="alisattiqasim868@gmail.com"></a>
 </p>
 
 ---
