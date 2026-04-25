@@ -28,85 +28,52 @@
 
 <img align="right" width="340" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" />
 
-### 🧑‍💻 The Mind Behind the Code
-```php
-<?php
-$developer = [
-  "name" => "Muhammad Ali",
-  "title" => "Full Stack Developer",
-  "location" => "Pakistan",
-  "stack" => [
-    "frontend" => ["HTML", "CSS", "JavaScript"],
-    "backend" => ["PHP", "WordPress"],
-    "database" => ["MySQL"],
-    "tools" => ["Git", "GitHub", "VSCode"]
-  ],
-  "focus" => "Performance + Scalable Systems",
-];
-?>
-<div align="center">
-<!-- ═══════════════════════════════════════ -->
-<!--           FEATURED PROJECTS             -->
-<!-- ═══════════════════════════════════════ -->
+## 🧑‍💻 About Me
 
-## 🎬 Featured Projects
-
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://via.placeholder.com/400x250/0D1117/00F7FF?text=CRM+System" />
-      <br/>
-      <b>CRM Management System</b>
-      <br/>
-      <sub>Complaint & User Management Dashboard</sub>
-    </td>
-
-    <td align="center" width="50%">
-      <img src="https://via.placeholder.com/400x250/0D1117/FF00FF?text=WordPress+Plugin" />
-      <br/>
-      <b>Custom WordPress Plugin</b>
-      <br/>
-      <sub>Dynamic Plugin with REST API Integration</sub>
-    </td>
-  </tr>
-
-  <tr>
-    <td align="center">
-      <img src="https://via.placeholder.com/400x250/0D1117/00F7FF?text=Loan+Calculator" />
-      <br/>
-      <b>Loan Calculator</b>
-      <br/>
-      <sub>Interactive Financial Calculation Tool</sub>
-    </td>
-
-    <td align="center">
-      <img src="https://via.placeholder.com/400x250/0D1117/FF00FF?text=WP+Theme" />
-      <br/>
-      <b>Custom WordPress Theme</b>
-      <br/>
-      <sub>Fully Responsive & Performance Optimized Theme</sub>
-    </td>
-  </tr>
-</table>
-</div>
+- 💻 Full Stack Developer  
+- 🔥 Specialized in WordPress Custom Development  
+- ⚙️ Build custom themes, plugins & dashboards  
+- 🚀 Passionate about solving real-world problems  
+- 📈 Focused on performance & scalable systems  
 
 ---
-<div align="center">
-<!-- ═══════════════════════════════════════ -->
-<!--               TECH STACK               -->
-<!-- ═══════════════════════════════════════ -->
 
 ## 🛠️ Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,wordpress,git,github,vscode&theme=dark" />
 </p>
-</div>
+
 ---
-<div align="center">
-<!-- ═══════════════════════════════════════ -->
-<!--               GITHUB STATS             -->
-<!-- ═══════════════════════════════════════ -->
+
+## 🚀 Featured Projects
+
+### 🧩 CRM Management System
+🔹 Complaint management system with role-based access  
+🔹 Dynamic dashboard with real-time data  
+
+**Tech:** PHP, MySQL, WordPress, JavaScript  
+**Repo:** https://github.com/yourusername/crm-project  
+
+---
+
+### 📚 WordPress Plugin
+🔹 Custom post types + REST API  
+🔹 Dynamic frontend with shortcode  
+
+**Tech:** WordPress, PHP, JavaScript  
+**Repo:** https://github.com/yourusername/wp-plugin  
+
+---
+
+### 🏠 Loan Calculator
+🔹 Interactive calculator with live results  
+🔹 Dynamic UI with sliders  
+
+**Tech:** JavaScript, PHP, WordPress  
+**Repo:** https://github.com/yourusername/loan-calculator  
+
+---
 
 ## 📊 GitHub Stats
 
@@ -114,24 +81,16 @@ $developer = [
   <img src="https://github-readme-stats.vercel.app/api?username=MuhammadAli77017&show_icons=true&theme=merko&hide_border=true" height="170"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadAli77017&layout=compact&theme=merko&hide_border=true" height="170"/>
 </p>
-</div>
+
 ---
 
-<!-- ═══════════════════════════════════════ -->
-<!--               STREAK                   -->
-<!-- ═══════════════════════════════════════ -->
-
-## 🔥 Streak Stats
+## 🔥 GitHub Streak
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=MuhammadAli77017&theme=merko&hide_border=true" />
 </p>
 
 ---
-
-<!-- ═══════════════════════════════════════ -->
-<!--             ACTIVITY GRAPH             -->
-<!-- ═══════════════════════════════════════ -->
 
 ## 📈 Activity Graph
 
@@ -141,39 +100,19 @@ $developer = [
 
 ---
 
-<!-- ═══════════════════════════════════════ -->
-<!--               CONNECT                  -->
-<!-- ═══════════════════════════════════════ -->
-
-## 🌐 Connect With Me
+## 🌐 Connect
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge">
-  </a>
-
-  <a href="mailto:your-email@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge">
-  </a>
-
-  <a href="https://github.com/MuhammadAli77017">
-    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge">
-  </a>
+  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge"></a>
 </p>
 
 ---
-
-<!-- ═══════════════════════════════════════ -->
-<!--               QUOTE                   -->
-<!-- ═══════════════════════════════════════ -->
 
 ## 💡 Quote
 
 > "First, solve the problem. Then, write the code."
 
-<br/>
+---
 
-<p align="center">⭐️ From Muhammad Ali with ❤️</p>
-
-</div>
-
+⭐️ From Muhammad Ali with ❤️
